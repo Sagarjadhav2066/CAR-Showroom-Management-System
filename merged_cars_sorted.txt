@@ -1,0 +1,5 @@
+VIN,Model,Color,Price,FuelType,Type,IsSold,ShowroomID
+1HGCM82633A123461,City,White,14.75,Petrol,Sedan,0,2
+1HGCM82633A123462,Civic,Red,18.90,Petrol,Sedan,1,2
+1HGCM82633A123463,Amaze,Silver,10.50,Petrol,Sedan,0,2
+1HGCM82633A123464,CRV,Black,30.25,Diesel,SUV,1,2

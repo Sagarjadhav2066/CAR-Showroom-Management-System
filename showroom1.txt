@@ -1,0 +1,10 @@
+123458,Fortuner,Black,35.50,Diesel,SUV,1,1
+123456,Corolla,Red,15.50,Petrol,Sedan,1,1
+123457,Innova,White,22.75,Diesel,SUV,0,1
+123459,Camry,Silver,40.25,Petrol,Sedan,0,1
+123460,Glanza,Blue,12.80,Petrol,Hatchback,1,1
+1001,Vikram Malhotra,9876543210,123 Main St Delhi,123456,JT2BK12U930123458,loan,15.50,0,0.00,101
+103,sagar,1,45.00,0.00,0.00
+104,pushkar,1,55.00,0.00,0.00
+105,putin,1,38.00,0.00,0.00
+105,piyush,1,55.00,0.00,0.00

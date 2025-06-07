@@ -1,0 +1,21 @@
+VIN,Model,Color,Price,FuelType,Type,IsSold,ShowroomID
+123457,Innova,White,22.75,Diesel,SUV,0,1
+123458,Fortuner,Black,35.50,Diesel,SUV,1,1
+123459,Camry,Silver,40.25,Petrol,Sedan,0,1
+1001,Vikram Malhotra,9876543210,123.00,123456,JT2BK12U9,0,15
+1001,Vikram Malhotra,9876543210,123.00,123456,JT2BK12U9,0,15
+123456,Corolla,Red,15.50,Petrol,Sedan,1,1
+123456,Corolla,Red,15.50,Petrol,Sedan,1,1
+123457,Innova,White,22.75,Diesel,SUV,0,1
+123458,Fortuner,Black,35.50,Diesel,SUV,1,1
+123459,Camry,Silver,40.25,Petrol,Sedan,0,1
+123460,Glanza,Blue,12.80,Petrol,Hatchback,1,1
+123460,Glanza,Blue,12.80,Petrol,Hatchback,1,1
+1HGCM82633A123462,Civic,Red,18.90,Petrol,Sedan,1,2
+1HGCM82633A123463,Amaze,Silver,10.50,Petrol,Sedan,0,2
+1HGCM82633A123461,City,White,14.75,Petrol,Sedan,0,2
+1HGCM82633A123461,City,White,14.75,Petrol,Sedan,0,2
+1HGCM82633A123462,Civic,Red,18.90,Petrol,Sedan,1,2
+1HGCM82633A123463,Amaze,Silver,10.50,Petrol,Sedan,0,2
+1HGCM82633A123464,CRV,Black,30.25,Diesel,SUV,1,2
+1HGCM82633A123464,CRV,Black,30.25,Diesel,SUV,1,2
